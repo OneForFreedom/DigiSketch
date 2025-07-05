@@ -13,3 +13,12 @@ and some sort of energy input.
 I'll make the schematic and maybe pcb today and part list, so stay tuned!
 
 Update: I did it! It's all complete, all in the span of one day! Now I just gonna upload the end files and code using kmk. Wish me luck!
+
+Update 2: I uploaded everything, and I mean EVERYTHING (that's necessary) I finally finished the coding and the 3d models, This is OneForFreedom, Over and out!
+
+TOTAL TIME TAKEN: ~12H
+
+Images:
+[1]("DigiSketch%20Schematic.png")
+[2]("DigiSketch%20PCB.png")
+[3]("DigiSketch%203D.png")
