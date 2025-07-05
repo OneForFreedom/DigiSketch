@@ -4,6 +4,8 @@ author: "One For Freedom"
 description: "It's an etchasketch - gone digital!"
 created_at: "05/07/25 (DD/MM/YY)"
 ---
+TOTAL TIME TAKEN: ~12H
+
 
 Entry 1 : 5/7/25
 
@@ -16,7 +18,7 @@ Update: I did it! It's all complete, all in the span of one day! Now I just gonn
 
 Update 2: I uploaded everything, and I mean EVERYTHING (that's necessary) I finally finished the coding and the 3d models, This is OneForFreedom, Over and out!
 
-TOTAL TIME TAKEN: ~12H
+
 
 Images:
   
