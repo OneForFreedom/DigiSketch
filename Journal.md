@@ -25,12 +25,6 @@ Images:
 
 ![DigiSketch Schematic](DigiSketch%20Schematic.png)
 
-  
-![DigiSketch Top](DigiSketch%20Top.step)
-
-
-![DigiSketch Bottom](DigiSketch%20Bottom.step)
-
 
 ![3D Render](Digisketch%203D.png)
 
