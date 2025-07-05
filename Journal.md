@@ -19,6 +19,20 @@ Update 2: I uploaded everything, and I mean EVERYTHING (that's necessary) I fina
 TOTAL TIME TAKEN: ~12H
 
 Images:
-[1]("DigiSketch%20Schematic.png")
-[2]("DigiSketch%20PCB.png")
-[3]("DigiSketch%203D.png")
+  
+![DigiSketch PCB](DigiSketch%20PCB.png)
+
+
+![DigiSketch Schematic](DigiSketch%20Schematic.png)
+
+  
+![DigiSketch Top](DigiSketch%20Top.step)
+
+
+![DigiSketch Bottom](DigiSketch%20Bottom.step)
+
+
+![3D Render](Digisketch%203D.png)
+
+
+![Background](DigiSketch%20BG.png)
