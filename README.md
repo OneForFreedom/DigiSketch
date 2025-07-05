@@ -11,6 +11,6 @@ so here it is!
 Full 3D Model(s)
 ![Background](DigiSketch%20BG.png)
 
-![Background](DigiSketch%203d.png)
+![Background](Digisketch%203D.png)
 
 ![Background](DigiSketch%20PCB.png)
