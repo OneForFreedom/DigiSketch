@@ -3,9 +3,9 @@ title: "DigiSketch"
 author: "One For Freedom"
 description: "It's an etchasketch - gone digital!"
 created_at: "05/07/25 (DD/MM/YY)"
-# TOTAL TIME TAKEN: ~12H
----
 
+---
+# TOTAL TIME TAKEN: ~12H
 
 
 Entry 1 : 5/7/25
