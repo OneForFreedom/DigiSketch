@@ -1,5 +1,3 @@
-![Background](DigiSketch%20BG.png)
-
 # DigiSketch
 It's an etchasketch, gone digital!
 
@@ -13,6 +11,6 @@ so here it is!
 Full 3D Model(s)
 ![Background](DigiSketch%20BG.png)
 
-![Background](DigiSketch%203D.png)
+![Background](DigiSketch%203d.png)
 
 ![Background](DigiSketch%20PCB.png)
