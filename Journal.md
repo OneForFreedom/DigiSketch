@@ -11,3 +11,5 @@ I scraped my old project and I'm not feeling that good about it. At least now it
 and some sort of energy input.
 
 I'll make the schematic and maybe pcb today and part list, so stay tuned!
+
+Update: I did it! It's all complete, all in the span of one day! Now I just gonna upload the end files and code using kmk. Wish me luck!
