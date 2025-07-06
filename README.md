@@ -46,3 +46,4 @@ Full 3D Model(s)
 | USD ($)  | **$49.28** |
 
 >  *Conversion rate used: £1 = $1.37*
+# I'm soo sad the coupon expired, I had to remove 100g of solder and a few O rings 😭
